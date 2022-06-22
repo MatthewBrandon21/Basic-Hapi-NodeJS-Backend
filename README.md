@@ -1,2 +1,5 @@
-# Basic Hapi NodeJS Backend
- Dicoding Backend Web Submission
+
+# Flexbox Website
+
+Mainly develop HTML CSS but also little bit JS for filtering
+
